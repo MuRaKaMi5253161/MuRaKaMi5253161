@@ -1,4 +1,4 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuRaKaMi5253161)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **MuRaKaMi5253161/MuRaKaMi5253161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
