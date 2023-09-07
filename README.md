@@ -1,8 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuRaKaMi5253161)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuRaKaMi5253161&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
-
-![murakami github stats](https://github-readme-stats.vercel.app/api?username=MuRaKaMi5253161&count_private=true&show_icons=true&line_height=40&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuRaKaMi5253161&langs_count=5&hide=html,cmake&theme=dracula)
 
 <!--
